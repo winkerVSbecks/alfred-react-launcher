@@ -1,0 +1,21 @@
+{
+  "name": "alfred-react-launcher",
+  "description": "Alfred 3 workflow to access the React & React Native Documentation and community links.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "alfy": "^0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sh build.sh"
+  },
+  "keywords": [
+    "alfred",
+    "react",
+    "react-native",
+    "launcher"
+  ],
+  "author": "Varun Vachhar",
+  "license": "MIT"
+}
