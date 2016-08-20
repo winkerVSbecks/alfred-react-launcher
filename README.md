@@ -4,7 +4,7 @@ Alfred 3 workflow to access the React & React Native Documentation and community
 
 ### Download
 
-Download the workflow from [GitHub]() or [Packal]().
+Download the workflow from [GitHub](https://github.com/winkerVSbecks/alfred-react-launcher/releases/download/v1.0.0/react-launcher.alfredworkflow) or [Packal](http://www.packal.org/workflow/react-launcher).
 Requires Node.js 4+ and Alfred Powerpack.
 
 ### Usage

@@ -15,6 +15,7 @@ cp -r ./D38BEEEE-2056-47E6-88AC-7D0C768B5E4E.png $OUTPUT
 cp -r ./icon.png $OUTPUT
 cp -r ./README.md $OUTPUT
 cd $OUTPUT
+pwd
 zip -r ../react-launcher.alfredworkflow .
 cd ..
 rm -rf $OUTPUT
